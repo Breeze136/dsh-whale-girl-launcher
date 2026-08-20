@@ -1,4 +1,6 @@
-﻿# DSH 鲸鱼娘启动器（可迁移便携版）
+[![GitHub Release](https://img.shields.io/github/v/release/Breeze136/dsh-whale-girl-launcher?label=Release&color=1f6feb)](https://github.com/Breeze136/dsh-whale-girl-launcher/releases/latest)
+
+# DSH 鲸鱼娘启动器（可迁移便携版）
 
 一个桌面快捷方式 + 便携脚本，双击即可完成：
 1. 自动清理 dsh* 残留插件目录（修复“安装插件后 DSH 启动报错”的问题）
